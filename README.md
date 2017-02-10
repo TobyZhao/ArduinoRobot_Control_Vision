@@ -8,4 +8,6 @@ step 3: detect circles using Hough transform and filter out false circles
 
 step 4: compute the velocities of wheels based on the radius and center position of the circle detected
 
-step 4: Respberry-Pi transmits motion commands to Arduino (high level control)
+step 5: Respberry-Pi transmits motion commands to Arduino (high level control)
+
+related instruction: https://vladimirli.gitbooks.io/el2222/content/
