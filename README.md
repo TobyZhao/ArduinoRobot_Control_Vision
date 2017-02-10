@@ -1,4 +1,4 @@
-# ArduinoWheeledRobot_Control_Vision
+# ArduinoRobot_Control_Vision
 
 step 1: assemble the hardware(Ardunio UNO, L239D) together into a wheeled robot
 
