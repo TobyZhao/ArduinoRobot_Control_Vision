@@ -1,6 +1,6 @@
 # ArduinoRobot_Control_Vision
 
-* project 1: circle tracker
+## project 1: circle tracker
 
 step 1: assemble the hardware(Ardunio UNO, L239D) together into a wheeled robot
 
@@ -14,4 +14,4 @@ step 5: Respberry-Pi transmits motion commands to Arduino (high level control)
 
 related instruction: https://vladimirli.gitbooks.io/el2222/content/
 
-* project 2: hand gesture recognition
+## project 2: hand gesture recognition
