@@ -12,7 +12,10 @@ step 4: compute the velocities of wheels based on the radius and center position
 
 step 5: Respberry-Pi transmits motion commands to Arduino (high level control)
 
-related instruction: https://vladimirli.gitbooks.io/el2222/content/ You can read file ../RPi/Communication/pi_main.py for more details.
+related instruction: https://vladimirli.gitbooks.io/el2222/content/ 
+
+You can read the file ../RPi/Communication/pi_main.py for more details.
+
 
 ## project 2: hand gesture control
 
