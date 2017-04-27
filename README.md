@@ -12,10 +12,10 @@ step 4: compute the velocities of wheels based on the radius and center position
 
 step 5: Respberry-Pi transmits motion commands to Arduino (high level control)
 
-related instruction: https://vladimirli.gitbooks.io/el2222/content/
+related instruction: https://vladimirli.gitbooks.io/el2222/content/ You can read file ../RPi/Communication/pi_main.py for more details.
 
 ## project 2: hand gesture control
 
-The basic idea is that you show your hand in front of the camera, and the raspberry pi will pre-process the images (subtract the background using thresholding) gathered from the camera and detect the convex hull enclosing your hand. Different convexity forms different patterns, which can be used for controlling the car to act differently.
+The basic idea is that you show your hand in front of the camera, and the raspberry pi will pre-process the images (subtract the background using thresholding) gathered from the camera and detect the convex hull enclosing your hand. Different convexity forms different patterns, which can be used for controlling the robot to act differently.
 
-You can see the file ../RPi/communication/main_gesture.py for more details.
+You can read the file ../RPi/communication/main_gesture.py for more details.
