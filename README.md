@@ -13,7 +13,7 @@
 - step 5: Respberry-Pi transmits motion commands to Arduino (high level control)
 
 [Related instruction](https://vladimirli.gitbooks.io/el2222/content/) 
-You can read the script ../RPi/Communication/pi_main.py for more details.
+. You can read the script ../RPi/Communication/pi_main.py for more details.
 
 
 ## project 2: hand gesture control
