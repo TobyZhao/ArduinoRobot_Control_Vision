@@ -20,3 +20,8 @@ You can read the script ../RPi/Communication/pi_main.py for more details. [Relat
 The basic idea is that you show your hand in front of the camera, and the raspberry pi will pre-process the images (subtract the background using thresholding) gathered from the camera and detect the convex hull enclosing your hand. Different convexity forms different patterns, which can be used for controlling the robot to act differently.
 
 You can read the script ../RPi/communication/main_gesture.py for more details.
+
+## How does the robot looks?
+
+![Caption](https://github.com/txzhao/ArduinoRobot-Control-Vision/blob/master/pic/how_it_looks.jpeg)
+
