@@ -21,6 +21,7 @@ The basic idea is that you show your hand in front of the camera, and the raspbe
 
 You can read the script ../RPi/communication/main_gesture.py for more details.
 
+
 ## How does the robot looks?
 
 ![Caption](https://github.com/txzhao/ArduinoRobot-Control-Vision/blob/master/pic/how_it_looks.jpeg)
